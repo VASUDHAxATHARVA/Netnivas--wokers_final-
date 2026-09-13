@@ -1,0 +1,6 @@
+{
+  "name": "NetNivas Vendor Dashboard",
+  "description": "Clean energy & smart living partner operations dashboard for electrical technicians and eco-civic service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
